@@ -1,0 +1,15 @@
+a=10
+b=8
+print("a",a)
+print("b",b)
+print(a&b)
+print(a|b)
+print(a^b)
+print(~a)
+print(~b)
+print(a>>1)
+print(a<<1)
+print(a>>2)
+print(a<<2)
+print(~(-a))
+print(~(-b))

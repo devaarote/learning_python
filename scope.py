@@ -1,3 +1,4 @@
+import math
 var_x=15
 
 def add_num():
@@ -6,3 +7,4 @@ def add_num():
     add_num()
     print(var_x)
     print(var_y)
+

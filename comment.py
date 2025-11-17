@@ -34,6 +34,9 @@ print(var2)      #Implicit Typecasting
 var2=int(var2)
 print(var2)      #Explicit Typecasting
 
+
+
+#Printing type of variable
 var_i=10
 var_s="Devendra"
 var_b=True
@@ -45,3 +48,4 @@ print(type(var_s))
 print(type(var_b))
 print(type(var_l))
 print(type(var_f))
+

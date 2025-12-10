@@ -31,5 +31,4 @@ print("set s4 after clearing all elements using clear(): ",s4)
 
 # deleting entire set using del
 del s4  
-print(s4)  # it will give error because set s4 is deleted
-# --- IGNORE ---
+#print(s4)  # it will give error because set s4 is deleted

@@ -11,3 +11,4 @@ e2=employee("Rahul",102)
 
 e1.display()
 e2.display()    
+1

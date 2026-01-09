@@ -13,6 +13,7 @@ class cow(animal):               #Child class inheriting from animal
 c1=cow()
 c1.speak()
 c1.eat()
+print("Value of X from parent class:",c1.X)
 a1=animal()
 a1.speak()
     

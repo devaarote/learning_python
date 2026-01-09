@@ -15,15 +15,15 @@ class car:
 # c1.display()   
 
 
-class subclasstest(car):
+class subclasstest(car):          #this will give error it is not accessible     
     def showdetails(self):
         print("car brand:",self.__brand)
         print("car model:",self.__model)
         self.display()  
 s1=subclasstest("Honda","Civic")
 # s1.showdetails()
-
-class outsidetest:
+                                                 
+class outsidetest:              # this will give error it is not accessible
     pass                                                
 s1=car("Ford","Mustang")
 print("Car Brand:",s1.__brand)
